@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   backend:
-    image: biggib01/234-deploylab-backend:latest
+    image: 13819773795/234-deploylab-backend:latest
     ports:
       - "8085:8080"
       - "8084:8080"
